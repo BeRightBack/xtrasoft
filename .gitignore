@@ -1,0 +1,14 @@
+############################################
+#. **Ignore a folder and its contents**:
+#  folder_name/
+#
+#. **Ignore only the contents of a folder but not the folder itself**:
+#  folder_name/*
+#  !folder_name/
+############################################
+
+vendor/
+.env
+stats/
+error/
+templates_c/*

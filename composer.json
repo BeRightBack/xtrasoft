@@ -1,0 +1,14 @@
+{
+    "name": "root/web",
+    "require": {
+        "smarty/smarty": "^4",
+        "twbs/bootstrap": "^5.3",
+        "twbs/bootstrap-icons": "^1.11",
+        "components/jquery": "^3.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "Root\\Web\\": "src/"
+        }
+    }
+}
