@@ -11,6 +11,6 @@ vendor/
 .env
 stats/
 error/
-!templates_c/
+#!templates_c/
 templates_c/*
 !templates_c/.gitkeep
