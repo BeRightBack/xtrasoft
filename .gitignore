@@ -12,3 +12,4 @@ vendor/
 stats/
 error/
 templates_c/*
+!templates_c/
